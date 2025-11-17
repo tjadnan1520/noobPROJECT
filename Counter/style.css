@@ -1,0 +1,22 @@
+#label{ 
+    display: block;
+    font-size :10em;
+    text-align: center;
+}
+#container{ 
+    text-align: center;
+    padding: 10px 20px; 
+    font-size: 20px;
+}
+.btn{ 
+    font-size: 20px;
+    color:aliceblue;
+    background-color: rgb(133, 158, 240);
+    
+} 
+.btn:hover{ 
+    background-color: rgb(11, 28, 88);
+}
+#ehhe{ 
+    background-color: rgb(177, 215, 248);
+}
